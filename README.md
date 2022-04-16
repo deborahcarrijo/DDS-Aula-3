@@ -1,2 +1,3 @@
-# DDS-Aula-3
-teste
+## DDS-Aula-3
+
+Este arquivo contém especificações de uso do repositório.
